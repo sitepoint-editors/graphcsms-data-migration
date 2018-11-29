@@ -1,6 +1,4 @@
-# GRAPHCMS DATA MIGRATION
-
-## Introduction
+# GraphCMS Data Migration Tool
 
 Simple utility for migrating data to a [GraphCMS](https://graphcms.com/) project database.
 
@@ -14,7 +12,7 @@ ENDPOINT=<YOUR_API_ENDPOINT>
 TOKEN=<YOUR_TOKEN>
 ```
 
-For the Token, create a new one if you don't have from your [GraphCMS](https://app.graphcms.com) dashboard(settings page). For permission, make sure to set it as `OPEN` to allow for both READ and WRITE operations. You'll find your `ENDPOINT` on the same page too,
+For the Token, create a new one if you don't have from your [GraphCMS](https://app.graphcms.com) dashboard (settings page). For permission, make sure to set it as `OPEN` to allow for both READ and WRITE operations. You'll find your `ENDPOINT` on the same page too,
 
 3. Install dependencies
 
